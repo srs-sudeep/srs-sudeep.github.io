@@ -1,7 +1,7 @@
 {
   "name": "youtube",
   "version": "0.1.0",
-  "homepage": "https://srs-sudeep.github.io/youtube",
+  "homepage": "https://srs-sudeep.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
