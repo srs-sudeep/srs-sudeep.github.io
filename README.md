@@ -1,13 +1,17 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 # To run this app:
 
 ### `git clone https://github.com/srs-sudeep/srs-sudeep.github.io.git`
 
 ### `cd srs-sudeep.github.io.git`
+
+###  create a new file named .env 
+
+### write `REACT_APP_RAPID_API_KEY = '6b1cda7144mshd9c564fe76555d3p16774bjsn5702a5b4f3c5'` in the .env file and save it
+
+Then in terminal write
 
 ### `npm i`
 
